@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1597680989 source:c:\users\mohamed\desktop\c++ projects\atm\bank atm\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+
+1597680989 source:c:\users\mohamed\desktop\c++ projects\c++\atm\bank atm\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+
